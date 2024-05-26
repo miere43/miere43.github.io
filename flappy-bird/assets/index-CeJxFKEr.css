@@ -1,0 +1,1 @@
+html{height:100%}body{margin:0;height:100%;overflow:hidden;background-color:#313131}#center{width:100%;height:100%;display:flex;justify-content:center;align-items:center;position:relative}#debug-overlay{position:absolute;color:#fff;margin:0;top:4px;left:4px}
